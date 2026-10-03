@@ -32,3 +32,21 @@ wc -l ventas.csv
 
 grep "Madrid" ventas.csv
 
+
+
+\# Git 	
+
+git init		-> Crea un repositorio nuevo en tu carpeta actual.
+
+git clone <url>		-> Copia un repositorio existente desde una dirección web.
+
+git status		-> Muestra el estado actual de tus archivos y cambios.
+
+git add			-> Prepara los archivos modificados para guardarlos.
+
+git commit -m "---"	-> Guarda los cambios preparados de forma oficial en el historial.
+
+git log --oneline	-> Ver historial
+
+
+
