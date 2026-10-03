@@ -1,0 +1,14 @@
+# Entornos virtuales de Python (sesión 0.1.5)
+.venv/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Credenciales y variables de entorno: NUNCA a GitHub
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
