@@ -25,7 +25,7 @@ mi-portfolio-data-analytics/
 
 ## Progreso del curso
 
-- [ ] Bloque 0 — Preparación
+- [x] Bloque 0 — Preparación
 - [ ] Bloque 1 — Fundamentos de Data Analytics
 - [ ] Bloque 2 — SQL y bases de datos
 - [ ] Bloque 3 — Python para análisis de datos
